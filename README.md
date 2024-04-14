@@ -62,4 +62,4 @@ Must use node and npm i in order for this program to work.
 
 ## Questions:
 
-If you have any further questions or comments, please contact my via my [github](https://github.com/JamieThompson101)
+If you have any further questions or comments, please contact me via my [github](https://github.com/JamieThompson101)
