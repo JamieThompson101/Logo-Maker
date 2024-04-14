@@ -46,7 +46,11 @@ By doing so, I have honed my JavaScript skills. With this, I have developed some
 
 ## Usage:
 
-## License:
+[demonstration](https://github.com/JamieThompson101/Logo-Maker/assets/130515437/b6456eeb-8d5c-465a-b911-8383ffb344c2)
+
+## License: 
+
+No license necessary
 
 ## Installation:
 
