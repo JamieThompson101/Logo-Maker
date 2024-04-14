@@ -1,10 +1,10 @@
-// import the inquirer module
+
 const inquirer = require("inquirer");
 const SVG = require("./lib/SVG");
-// create path for each shape class
+
 const { Circle, Square, Triangle } = require("./lib/Shapes");
 const { writeFile } = require("fs").promises;
-// question prompts for the user that takes user's input to use for the logo 
+
 const questions = [
     {
         type: "input",
@@ -35,8 +35,6 @@ const questions = [
     },
 ];
 
-// Prompt the user for the logo's text, shape, and colors
-// Create a new instance of the SVG class
 
 inquirer.prompt(questions).then(({ text, textColor, shapeType, shapeColor }) => {
     let shape;

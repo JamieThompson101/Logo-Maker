@@ -1,5 +1,5 @@
 {
-    "name": "oop_logomaker",
+    "name": "logomaker",
     "version": "1.0.0",
     "description": "![Badge](https://img.shields.io/badge/License-MIT-blue.svg)",
     "main": "index.js",
@@ -12,7 +12,7 @@
       "test": "jest"
     },
     "keywords": [],
-    "author": "",
+    "author": "JamieThompson101",
     "license": "ISC",
     "dependencies": {
       "inquirer": "^8.2.4",
