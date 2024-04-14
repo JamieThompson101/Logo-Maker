@@ -1,0 +1,21 @@
+{
+    "name": "oop_logomaker",
+    "version": "1.0.0",
+    "description": "![Badge](https://img.shields.io/badge/License-MIT-blue.svg)",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "scripts": {
+      "start": "node -watch server",
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^29.5.0"
+    }
+  }
